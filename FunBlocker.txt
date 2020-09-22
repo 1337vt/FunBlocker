@@ -223,3 +223,4 @@
 0.0.0.0 video-weaver.dfw02.hls.ttvnw.net
 0.0.0.0 video-weaver.hou01.hls.ttvnw.net
 0.0.0.0 www.primevideo.com
+0.0.0.0 xsts.auth.xboxlive.com
