@@ -5,6 +5,7 @@
 0.0.0.0 accounts.xboxlive.com.akadns.net
 0.0.0.0 achievements.xboxlive.com
 0.0.0.0 achievements.xboxlive.com.akadns.net
+0.0.0.0 api.epicgames.dev
 0.0.0.0 api.steampowered.com
 0.0.0.0 avatarservices.xboxlive.com
 0.0.0.0 avatarservices.xboxlive.com.akadns.net
@@ -36,6 +37,7 @@
 0.0.0.0 comments.xboxlive.com.akadns.net
 0.0.0.0 compass-ssl.xboxlive.com
 0.0.0.0 compass-ssl.xboxlive.com.edgekey.net
+0.0.0.0 config.psynet.gg
 0.0.0.0 content-controls-prod.ol.epicgames.net
 0.0.0.0 content-origin.steampowered.com
 0.0.0.0 datarouter.ol.epicgames.com
