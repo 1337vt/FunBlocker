@@ -17,6 +17,7 @@
 0.0.0.0 anime-update9.site
 0.0.0.0 api.epicgames.dev
 0.0.0.0 api.steampowered.com
+0.0.0.0 applink.instagram.com
 0.0.0.0 avatarservices.xboxlive.com
 0.0.0.0 avatarservices.xboxlive.com.akadns.net
 0.0.0.0 avty.xboxlive.com
@@ -29,6 +30,7 @@
 0.0.0.0 cdn1.epicgames.com
 0.0.0.0 cdn.akamai.steamstatic.com.edgesuite.net
 0.0.0.0 cdn.cloudflare.steamstatic.com
+0.0.0.0 cdninstagram.com
 0.0.0.0 cert.mgt.xboxlive.com
 0.0.0.0 cert.mgt.xboxlive.com.akadns.net
 0.0.0.0 channels.live.use1a.on.epicgames.com
@@ -88,11 +90,15 @@
 0.0.0.0 gameclipsmetadata.xboxlive.com.nsatc.net
 0.0.0.0 gms.razersynapse.com
 0.0.0.0 gms.razersynapse.com.s3-website-us-east-1.amazonaws.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 i.instagram.com
 0.0.0.0 id.razer.com
 0.0.0.0 images-eds-ssl.xboxlive.com
 0.0.0.0 images-eds-ssl.xboxlive.com.edgekey.net
 0.0.0.0 images-eds.xboxlive.com
 0.0.0.0 images-eds.xboxlive.com.edgesuite.net
+0.0.0.0 instagram.c10r.facebook.com
+0.0.0.0 instagram.com
 0.0.0.0 interactions.live.use1a.on.epicgames.com
 0.0.0.0 interactions-service-prod.ol.epicgames.com
 0.0.0.0 ipv6check-http.steamcontent.com
@@ -146,6 +152,11 @@
 0.0.0.0 razersynapse.com
 0.0.0.0 rta.xboxlive.com
 0.0.0.0 rta.xboxlive.com.akadns.net
+0.0.0.0 scontent.cdninstagram.com
+0.0.0.0 scontent-dfw5-1.cdninstagram.com
+0.0.0.0 scontent-dfw5-2.cdninstagram.com
+0.0.0.0 scontent-dfw5-3.cdninstagram.com
+0.0.0.0 scontent-dfw5-4.cdninstagram.com
 0.0.0.0 sessiondirectory.xboxlive.com
 0.0.0.0 sessiondirectory.xboxlive.com.akadns.net
 0.0.0.0 settings.xboxlive.com
@@ -235,4 +246,6 @@
 0.0.0.0 video-weaver.dfw02.hls.ttvnw.net
 0.0.0.0 video-weaver.hou01.hls.ttvnw.net
 0.0.0.0 www.primevideo.com
+0.0.0.0 www.instagram.com
 0.0.0.0 xsts.auth.xboxlive.com
+0.0.0.0 z-p42-instagram.c10r.facebook.com
