@@ -30,6 +30,7 @@
 0.0.0.0 cdn1.epicgames.com
 0.0.0.0 cdn.akamai.steamstatic.com.edgesuite.net
 0.0.0.0 cdn.cloudflare.steamstatic.com
+0.0.0.0 cdn.discordapp.com
 0.0.0.0 cdninstagram.com
 0.0.0.0 cert.mgt.xboxlive.com
 0.0.0.0 cert.mgt.xboxlive.com.akadns.net
@@ -56,6 +57,7 @@
 0.0.0.0 datarouter-weighted.ol.epicgames.com
 0.0.0.0 device.auth.xboxlive.com
 0.0.0.0 device.auth.xboxlive.com.akadns.net
+0.0.0.0 discord.com
 0.0.0.0 discovery.razerapi.com
 0.0.0.0 discovery.razerapi.com.cdn.cloudflare.net
 0.0.0.0 dlassets-ssl.xboxlive.com
