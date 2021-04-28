@@ -250,6 +250,7 @@
 0.0.0.0 minecraft.onelink.me
 0.0.0.0 minecraftprod.rtep.msgamestudios.com
 0.0.0.0 minecraftservers.org
+0.0.0.0 minecraftservices.com
 0.0.0.0 _minecraft._tcp.hypixel.net
 0.0.0.0 _minecraft._tcp.mc.playuhc.net
 0.0.0.0 _minecraft._tcp.play.archermc.net
@@ -260,6 +261,7 @@
 0.0.0.0 _minecraft._tcp.xbox25.minehut.gg
 0.0.0.0 _minecraft._tcp.xbox26.minehut.gg
 0.0.0.0 minehut.com
+0.0.0.0 minehut.gg
 0.0.0.0 mineplex.com
 0.0.0.0 mobile-ixanycast.ftl.netflix.com
 0.0.0.0 mobile-static.criminalcasegame.com
@@ -518,3 +520,10 @@
 0.0.0.0 xtrapath1.xboxprod.izatcloud.net
 0.0.0.0 xtrapath3.xboxprod.izatcloud.net
 0.0.0.0 z-p42-instagram.c10r.facebook.com
+0.0.0.0 bugs.mojang.com
+0.0.0.0 launchercontent.mojang.com
+0.0.0.0 launchermeta.mojang.com
+0.0.0.0 launcher.mojang.com
+0.0.0.0 mojang.com
+0.0.0.0 piston-meta.mojang.com
+0.0.0.0 sessionserver.mojang.com
